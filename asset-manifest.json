@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/indianfoodingredientsapp/static/css/main.28924eec.chunk.css",
-    "main.js": "/indianfoodingredientsapp/static/js/main.2dd86859.chunk.js",
-    "main.js.map": "/indianfoodingredientsapp/static/js/main.2dd86859.chunk.js.map",
-    "runtime-main.js": "/indianfoodingredientsapp/static/js/runtime-main.83bd78eb.js",
-    "runtime-main.js.map": "/indianfoodingredientsapp/static/js/runtime-main.83bd78eb.js.map",
-    "static/js/2.28e58ecb.chunk.js": "/indianfoodingredientsapp/static/js/2.28e58ecb.chunk.js",
-    "static/js/2.28e58ecb.chunk.js.map": "/indianfoodingredientsapp/static/js/2.28e58ecb.chunk.js.map",
-    "index.html": "/indianfoodingredientsapp/index.html",
-    "static/css/main.28924eec.chunk.css.map": "/indianfoodingredientsapp/static/css/main.28924eec.chunk.css.map",
-    "static/js/2.28e58ecb.chunk.js.LICENSE.txt": "/indianfoodingredientsapp/static/js/2.28e58ecb.chunk.js.LICENSE.txt"
+    "main.css": "/indianfoodingredients_app_reactjs/static/css/main.28924eec.chunk.css",
+    "main.js": "/indianfoodingredients_app_reactjs/static/js/main.2dd86859.chunk.js",
+    "main.js.map": "/indianfoodingredients_app_reactjs/static/js/main.2dd86859.chunk.js.map",
+    "runtime-main.js": "/indianfoodingredients_app_reactjs/static/js/runtime-main.b170ec2d.js",
+    "runtime-main.js.map": "/indianfoodingredients_app_reactjs/static/js/runtime-main.b170ec2d.js.map",
+    "static/js/2.28e58ecb.chunk.js": "/indianfoodingredients_app_reactjs/static/js/2.28e58ecb.chunk.js",
+    "static/js/2.28e58ecb.chunk.js.map": "/indianfoodingredients_app_reactjs/static/js/2.28e58ecb.chunk.js.map",
+    "index.html": "/indianfoodingredients_app_reactjs/index.html",
+    "static/css/main.28924eec.chunk.css.map": "/indianfoodingredients_app_reactjs/static/css/main.28924eec.chunk.css.map",
+    "static/js/2.28e58ecb.chunk.js.LICENSE.txt": "/indianfoodingredients_app_reactjs/static/js/2.28e58ecb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83bd78eb.js",
+    "static/js/runtime-main.b170ec2d.js",
     "static/js/2.28e58ecb.chunk.js",
     "static/css/main.28924eec.chunk.css",
     "static/js/main.2dd86859.chunk.js"
